@@ -1,2 +1,2 @@
-# c-Math
-C++ Érdekes Optimalizált Matekfüggvények
+# c++ Math
+C++ gyors matematikai függvények
